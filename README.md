@@ -2,15 +2,13 @@
 
 Welcome to my personal portfolio website! This is where I showcase my projects, skills, and experiences. Feel free to explore and learn more about what I do.
 
-## Overview
-
-This portfolio highlights my development journey, including various projects demonstrating my expertise in web development, data analysis, and software engineering. Each project is accompanied by a brief description and a link to the repository for more details.
-
-## Visit My Website
-
 Check out my portfolio website to see my work and learn more about each project. Click the link below to visit:
 
 [My Portfolio Website](https://sankeerthini.github.io/My-Portfolio-Website/)
+
+## Overview
+
+This portfolio highlights my development journey, including various projects demonstrating my expertise in web development, data analysis, and software engineering. Each project is accompanied by a brief description and a link to the repository for more details.
 
 ## Projects
 
